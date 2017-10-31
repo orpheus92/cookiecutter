@@ -1,6 +1,8 @@
 {
-  "name": "jupyterlab_xkcd",
+  "name": "@orpheus92/jupyterlab_xkcd",
   "version": "0.1.0",
+  "repository": "https://github.com/orpheus92/cookiecutter",
+  "license": " ",
   "description": "Show a random xkcd.com comic in a JupyterLab panel",
   "author": "orpheus92",
   "main": "lib/index.js",
