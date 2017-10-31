@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5ac5fa4a-bbc8-457e-a9b6-8f4bcdb499ef" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.ts" afterPath="$PROJECT_DIR$/src/index.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/index.css" afterPath="$PROJECT_DIR$/style/index.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,21 +19,23 @@
       <file leaf-file-name="index.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <state relative-caret-position="301">
+              <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
               <folding>
-                <element signature="e#0#75#0" expanded="true" />
-                <element signature="n#XkcdWidget#0" expanded="false" />
-                <element signature="n#!!block;n#constructor#0;n#XkcdWidget#0" expanded="false" />
-                <element signature="n#!!block;n#activate#0" expanded="false" />
-                <marker date="1509484326059" expanded="true" signature="893:1102" ph="..." />
-                <marker date="1509484326059" expanded="true" signature="1003:1089" ph="..." />
+                <element signature="e#0#99#0" expanded="true" />
+                <marker date="1509487465889" expanded="true" signature="1001:1210" ph="..." />
+                <marker date="1509487465889" expanded="true" signature="1111:1197" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>document</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -126,12 +127,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509483545143</updated>
-      <workItem from="1509483546270" duration="814000" />
+      <workItem from="1509483546270" duration="3432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="814000" />
+    <option name="totallyTimeSpent" value="3432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
@@ -170,15 +171,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        <state relative-caret-position="301">
+          <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
           <folding>
-            <element signature="e#0#75#0" expanded="true" />
-            <element signature="n#XkcdWidget#0" expanded="false" />
-            <element signature="n#!!block;n#constructor#0;n#XkcdWidget#0" expanded="false" />
-            <element signature="n#!!block;n#activate#0" expanded="false" />
-            <marker date="1509484326059" expanded="true" signature="893:1102" ph="..." />
-            <marker date="1509484326059" expanded="true" signature="1003:1089" ph="..." />
+            <element signature="e#0#99#0" expanded="true" />
+            <marker date="1509487465889" expanded="true" signature="1001:1210" ph="..." />
+            <marker date="1509487465889" expanded="true" signature="1111:1197" ph="..." />
           </folding>
         </state>
       </provider>
